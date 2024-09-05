@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Anna Mokk's Portfolio: Title"
+  text: "6:1040 Fall 2024"
+  tagline: "Pickles"
   actions:
     - theme: brand
       text: Template Repository
