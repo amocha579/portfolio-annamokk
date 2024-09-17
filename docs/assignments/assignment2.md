@@ -15,16 +15,16 @@ Urban Kickstart (Kickstart for short) is a social media app designed specificall
 
 | ![Meetup](images/meetup.png) |
 | :--------------------------: |
-|  *Events image from Meetup*  |
+|  *Local events image from Meetup*  |
 
 
-Finding and filtering events by certain dates on Meetup: this idea can be improved by motivating users to attend by describing the local store discounts they may receive from it.
+This image shows the finding and filtering local events feature on Meetup: this idea can be improved by motivating users to attend by describing the local store discounts they may receive from it.
 
 |  ![Facebook Group](images/fb.jpg)  |
 | :--------------------------------: |
 | *Locked Group image from Facebook* |
 
-This image is from a private Facebook Group. The private feature does not encourage inclusivity, so I’ll remove the locked feature but may keep several of the same group dynamics. 
+This image is from a private Facebook Group. The private feature does not encourage inclusivity, so I’ll remove the locked feature but keep several of the same group dynamics. Groups can be formed based on hobbies, events, or other social interests.  
 
 | ![Bumble Friends](images/bumble.jpg) |
 | :----------------------------------: |
@@ -51,7 +51,7 @@ The app will display fun challenges and tasks to help users explore their new ci
 
 3) Local Business Partnerships
 
-Like Uber Eats, Kickstart will partner with local businesses in order to be able to provide discounts, rewards, and freebies to users who participate in events and challenges. Free food is often a big motivator for students and the younger generation, so I see this as a significant incentive for users. 
+Like Uber Eats, Kickstart will partner with local businesses in order to be able to provide discounts, rewards, and freebies to users who participate in events and challenges. Local stores will benefit by an increase in customers, and free/discounted food is often a big motivator for students and the younger generation, so I see this as a significant incentive for users as well. 
 
 4) Local Events and Meetups
 
@@ -70,15 +70,15 @@ Similar to Pokemon Go, users can travel to destinations that have hidden notes/r
 
 Many “how to explore the city” blogs are written by reporters or sponsored writers. I envision that my app will instead have intro blogs written by real users that are new to the city. Topics will include favorite shops, how to use the T, or any other helpful anecdotes. Users can upvote blogs and contact the writer safely through the app using the comments section (not personal messaging). 
 
-8) App Messaging
+8) City Exploring Buddy
 
-The app will provide a way for users to message each other given a unique username/handle, like a limited Discord. The way for another user to discover the handle of another user is through revealing it on geocached-hidden messages or providing their handle on a blog they wrote. They can also choose to write the blog anonymously. 
+The app will allow users to "match" with a city exploring buddy, or become a city exploring buddy themselves. This would work similar to Bumble, with less restrictions on the requirements for matching: users don't necessarily have to have all the same shared hobbies. 
 
-9) Groups Chats
+9) App Messaging
 
-The app will allow group chats, once every person has discovered/accepted the other’s handle. 
+The app will provide a way for users to message each other given a unique username/handle, like a limited Discord. The way for another user to discover the handle of another user is through matching with a city exploring buddy, revealing their handle on geocached-hidden messages, or providing their handle on a blog they wrote. They can also choose to write the blog anonymously. 
 
-10) Disable Messaging
+10)  Disable Messaging
 
 Users will have the option to disable messaging for privacy reasons. 
 
